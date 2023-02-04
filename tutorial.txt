@@ -1,0 +1,12 @@
+step 1: clone respository gif_your_nifti by using this command
+git clone https://github.com/miykael/gif_your_nifti.git
+
+step 2: download and extract dataset from https://www.kaggle.com/code/rastislav/3d-mri-brain-tumor-segmentation-u-net/data
+dataset is included:
+  training and validation dataset: https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation
+  model per class evaluate: https://www.kaggle.com/datasets/rastislav/modelperclasseval
+  model x80 dcs65: https://www.kaggle.com/datasets/rastislav/model-x80-dcs65
+
+step 3: install necessary module which required in the first cell of ipynb file
+
+step 4: run code
