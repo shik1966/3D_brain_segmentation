@@ -9,4 +9,6 @@ dataset is included:
 
 step 3: install necessary module which required in the first cell of ipynb file
 
-step 4: run code
+step 4: change the directories in ipynb file which point to these required files
+
+step 5: run and evaluate
