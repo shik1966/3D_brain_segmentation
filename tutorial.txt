@@ -1,3 +1,7 @@
+a 3D brain segmentation model using u-net
+this model using python 3.10.2 
+to install this model please follow below tutorial
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 step 1: clone respository gif_your_nifti by using this command
 git clone https://github.com/miykael/gif_your_nifti.git
 
@@ -7,8 +11,15 @@ dataset is included:
   model per class evaluate: https://www.kaggle.com/datasets/rastislav/modelperclasseval
   model x80 dcs65: https://www.kaggle.com/datasets/rastislav/model-x80-dcs65
 
-step 3: install necessary module which required in the first cell of ipynb file
+step 3: install necessary modules which required in the first cell of ipynb file
+  using command pip install [module_name] to intall modules
 
-step 4: change the directories in ipynb file which point to these required files
+step 4: install pydot and graphviz [optional]
+  install pydot by command: pip install pydot
+  install graphviz follow this link: https://graphviz.gitlab.io/download/
 
-step 5: run and evaluate
+step 5: change the directories in ipynb file which point to these required files
+
+step 6: change epoch value
+
+step 7: run and evaluate
