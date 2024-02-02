@@ -1,0 +1,9 @@
+Test Loss: 0.010119952261447906
+Test Accuracy : 0.996668815612793
+Dice Coefficient: 0.8605811595916748
+Precesion: 0.7247825264930725
+Sensitivity: 0.996535062789917
+Specificity: 0.995985209941864
+Dice Coefficent Necrotic: 0.998833954334259
+Dice Coefficent Edema: 0.7303679585456848
+Dice Coefficent Enhancing: 0.8018130660057068
